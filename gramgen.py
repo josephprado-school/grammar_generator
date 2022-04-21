@@ -1,4 +1,4 @@
-# File:   grammargenerator.py
+# File:   gramgen.py
 # Author: Joe Prado
 # Date:   3/17/22
 # Course: CS320, Winter 2022
